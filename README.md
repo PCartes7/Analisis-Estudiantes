@@ -18,7 +18,7 @@ Este proyecto final desarrolla un modelo de Machine Learning Supervisado (Sklear
 * **Análisis y Manipulación de Datos:** Pandas, NumPy, Scipy, Smote
 * **Visualización:** Matplotlib, Seaborn
 * **Machine Learning:** Scikit-Learn, RandomForestClassifier, LogisticRegression
-* * **Big Data:** PySpark, RandomForestRegressor, Ridge
+* **Big Data:** PySpark, RandomForestRegressor, Ridge
 * **Entorno de Desarrollo:** JupyterNotebook, GoogleColaboratory
 
 ---
